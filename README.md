@@ -22,18 +22,3 @@ Welcome to my personal portfolio — a creative and interactive space where tech
 - 🧭 Smooth navigation and scroll animations
 - ⚙️ Fully customizable and extendable
 
----
-
-## Preview
-
-![Portfolio Preview](./preview.png) <!-- Replace with your actual preview image or GIF -->
-
----
-
-##  Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/priyanshyverma/your-portfolio-repo.git
-cd your-portfolio-repo
