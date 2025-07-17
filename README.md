@@ -1,12 +1,39 @@
-# React + Vite
+# Priyanshy Verma – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio — a creative and interactive space where technology meets design. This portfolio showcases my work, projects, and journey as a full-stack developer, creative designer, and student leader.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend**: React.js, Vite, Tailwind CSS
+- **3D Rendering**: Three.js, React Three Fiber, Drei
+- **Animations**: Framer Motion
+- **Deployment**: GitHub Pages / Vercel
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Features
+
+- 🎨 Sleek, responsive, and modern UI
+- 🌌 Interactive 3D elements using Three.js
+- 💬 Project highlights with descriptions and tech used
+- 🔗 Social links to GitHub, LinkedIn, and more
+- 🧭 Smooth navigation and scroll animations
+- ⚙️ Fully customizable and extendable
+
+---
+
+## Preview
+
+![Portfolio Preview](./preview.png) <!-- Replace with your actual preview image or GIF -->
+
+---
+
+##  Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/priyanshyverma/your-portfolio-repo.git
+cd your-portfolio-repo
